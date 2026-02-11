@@ -40,13 +40,12 @@ I try to understand the nature of systems — both digital and human.
 ### ⚙ Frameworks & Core Areas  
 <img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase,pytorch" />
 
-### 🧠 AI & Research Tools  
-<img src="https://skillicons.dev/icons?i=jupyter" />
-
-ML • AI • Computer Vision • Deep Learning
-
 ### 🧰 Tools & Version Control  
 <img src="https://skillicons.dev/icons?i=git,github,linux" />
+
+### 🧠 AI & Research Tools 
+
+#### ML • AI • Computer Vision • Deep Learning
 
 </div>
 
@@ -55,7 +54,7 @@ ML • AI • Computer Vision • Deep Learning
 ## 🧩 Featured Work
 
 ### 🛡 Anti_Overlay  
-Intelligent overlay detection system built with ML concepts.
+Intelligent overlay detection system to catch the online exam cheaters
 
 ### 🛒 CraveCart  
 Flutter-based food delivery application with clean UI architecture.
@@ -66,28 +65,6 @@ Exploring attention mechanisms in computer vision.
 ### 🔬 CABNet  
 Deep learning experimentation project.
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Sabyasachi03&theme=algolia&no-frame=true&margin-w=10)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sabyasachi03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabyasachi03&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 ## 🌿 Philosophy & Perspective
 
