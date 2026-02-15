@@ -1,18 +1,8 @@
 <div align="center">
 
-<h1>
-  <span style="
-    background: linear-gradient(90deg, #58A6FF, #A371F7, #F778BA);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    🌌 Hi, I'm Sabyasachi
-  </span>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sabyasachi" />
 
 </div>
-
-<div align="center">
 
 ✨ Software Developer | 🤖 AI Explorer | 🧠 Systems Thinker | 🌿 Spiritual Observer ✨  
 
