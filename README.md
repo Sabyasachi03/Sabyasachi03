@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sabyasachi" />
 
-</div>
 
 ✨ Software Developer | 🤖 AI Explorer | 🧠 Systems Thinker | 🌿 Spiritual Observer ✨  
 
