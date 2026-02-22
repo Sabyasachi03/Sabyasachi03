@@ -99,6 +99,7 @@ Both are necessary.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sabyasachisamanta/
 - 📧 Email: sam.sabya10@gmail.com
+- 🧑‍💼 Portfolio: https://sabyasachi-samanta.web.app/
 
 ---
 
